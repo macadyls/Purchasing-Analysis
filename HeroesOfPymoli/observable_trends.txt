@@ -1,0 +1,9 @@
+Obsverable Trends
+------------------------------------------------------
+
+1. With 179 Unique Items with an average price of $3.05, 780 purchases were made yielding a revenue of $2,379.77
+
+2. There are a total of 576 players with 84% of players being male. Majority of players are between the age of 20-24 making up 44.79%.
+
+3. The player SN with the most purchases is Lisosia93 with 5 purchases, contributing $18.96 to the total revenue. 
+Furthermore, the most valuable and profitable item is the Final Critic (Item ID: 92) with a price of $4.61, contributing $59.99 to total revenue.
