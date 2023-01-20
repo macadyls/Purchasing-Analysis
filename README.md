@@ -7,7 +7,16 @@
 As the lead analyst for the fantasy game Heroes of Pymoli, we have been tasked to analyse the purchasing data and convert them into meaningful insights.
 Although it is a free-to-play game, players are encouraged to make in-game purchases to enhance their gaming experience. 
 
-The final report includes:
+## Observable trends
+
+1. With 179 Unique Items with an average price of $3.05, 780 purchases were made yielding a revenue of $2,379.77
+2. There are a total of 576 players with 84% of players being male. Majority of players are between the age of 20-24 making up 44.79%.
+3. The player SN with the most purchases is Lisosia93 with 5 purchases, contributing $18.96 to the total revenue. 
+4. The most valuable and profitable item is the Final Critic (Item ID: 92) with a price of $4.61, contributing $59.99 to total revenue.
+
+## The Report
+
+The final report can be viewed in main.ipynb which includes:
 
 ## Player Count
 
